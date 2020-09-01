@@ -1,0 +1,12 @@
+{
+    "name": "pi-qo/json-response",
+    "description": "Standardised way to make responses in JSON",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PiQo\\JSON\\": "src/"
+        }
+    }
+}
