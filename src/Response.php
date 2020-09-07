@@ -8,7 +8,7 @@ class Response extends Singleton
     protected $data;
     protected $errors;
 
-    protected function __constructor()
+    protected function __construct()
     {
         $this->meta = null;
         $this->data = null;
